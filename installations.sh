@@ -10,7 +10,7 @@ source ~/.bashrc
 
 sudo apt update && sudo apt upgrade -y
 
-sudo apt install scala
+sudo apt install scala -y
 
 scala -version
 
