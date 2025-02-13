@@ -1,6 +1,6 @@
 ## Road Map For ML Engineer
 
-* 1: Python/Java (Prefer Python)
+* 1: Python (Prefer Python)
 * 2: Git
 * 3: Data Structures and Algorithims
 * 4: SQL (Python Integration with SQL)
