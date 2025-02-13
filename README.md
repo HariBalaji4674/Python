@@ -1,3 +1,25 @@
+#### Road Map For ML Engineer
+
+* 1: Python/Java (Prefer Python)
+* 2: Git
+* 3: Data Structures and Algorithims
+* 4: SQL (Python Integration with SQL)
+* 5: Data Handling (Pandas & Numpy)
+* 6: Data Visulization (MatplotLib, Seaborn)
+* 7: Machine Leaning Fundamentals
+  * 1: Tensor Flow
+  * 2: PyTorch
+  * 3: SciKit Learn
+* 8: Advanced Concepts:
+  * 1: Deep Learning
+  * 2: Natural Language Processing
+* 9: Model Building
+  * 1: Flask Framework
+  * 2: Django Framework
+* 10: Model Deployment
+  * 1: Docker
+  * 2: Kubernetes
+
 ## **Python Notes**
 
 #### What will come from this course
