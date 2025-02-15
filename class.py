@@ -61,3 +61,13 @@ ferari = car("ferari","red")
 
 audi.show()
 ferari.show()
+
+hyndai = car("hyndai","yellow")
+hyndai.show()
+
+class Dog:
+    def mainMethod(self):
+        print(self.name)
+
+cl1 = Dog()
+cl1.mainMethod("peddireddy")
