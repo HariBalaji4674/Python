@@ -32,3 +32,4 @@ URLObject
 Werkzeug
 wincertstore
 WTForms
+livereload

@@ -1,0 +1,36 @@
+h1{
+    color: yellow;
+    background-color: navy;
+    border-width: thin;
+    border-color: yellow;
+    border-style: dashed;
+
+}
+h2{
+    color: black;
+    background-color: greenyellow;
+    border-width: thin;
+    border-color: yellow;
+    border-style: dashed;
+
+}
+h3{
+    color: red;
+    background-color: pink;
+    border-width: thin;
+    border-color: yellow;
+    border-style: dashed;
+
+}
+h4{
+    color: cornsilk;
+    background-color: violet;
+    border-width: thin;
+    border-color: yellow;
+    border-style: dashed;
+}
+
+.p1{
+    color: lightgrey
+
+}
