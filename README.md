@@ -355,7 +355,14 @@ print(my_list[1:4])  # Output: [25, 30, 35]
   * array and target
   * Binary search should always sort
   * floor division 
-  * 
+
+#### What is web:
+- Front End : HTML CSS Java Script
+- Backend : Python | Java | JavaScript
+- DataBases : SQL | MySQl | Postgres SQL
+- Caching: Redis
+
+
 
 
 
