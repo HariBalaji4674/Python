@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+flask
+ipykernel
+scikit-learn
+Jinja2
+pyspark
+py4j

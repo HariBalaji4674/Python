@@ -1,0 +1,101 @@
+Transaction_ID,Date,Customer,Amount,Payment_Method
+2001,2024-01-01,Customer_1,480.49,PayPal
+2002,2024-01-02,Customer_2,190.55,PayPal
+2003,2024-01-03,Customer_3,121.52,Credit Card
+2004,2024-01-04,Customer_4,276.59,Cash
+2005,2024-01-05,Customer_5,82.61,PayPal
+2006,2024-01-06,Customer_6,122.76,Cash
+2007,2024-01-07,Customer_7,288.27,Credit Card
+2008,2024-01-08,Customer_8,136.7,PayPal
+2009,2024-01-09,Customer_9,77.84,Credit Card
+2010,2024-01-10,Customer_10,156.57,Cash
+2011,2024-01-11,Customer_11,333.92,Credit Card
+2012,2024-01-12,Customer_12,344.17,Credit Card
+2013,2024-01-13,Customer_13,339.26,Credit Card
+2014,2024-01-14,Customer_14,191.31,Credit Card
+2015,2024-01-15,Customer_15,438.12,Debit Card
+2016,2024-01-16,Customer_16,113.19,PayPal
+2017,2024-01-17,Customer_17,83.62,Debit Card
+2018,2024-01-18,Customer_18,113.1,Credit Card
+2019,2024-01-19,Customer_19,396.39,Credit Card
+2020,2024-01-20,Customer_20,183.31,PayPal
+2021,2024-01-21,Customer_21,346.68,Cash
+2022,2024-01-22,Customer_22,401.91,Debit Card
+2023,2024-01-23,Customer_23,245.59,Debit Card
+2024,2024-01-24,Customer_24,450.33,PayPal
+2025,2024-01-25,Customer_25,429.32,Cash
+2026,2024-01-26,Customer_26,240.35,Debit Card
+2027,2024-01-27,Customer_27,261.05,Debit Card
+2028,2024-01-28,Customer_28,442.14,Cash
+2029,2024-01-29,Customer_29,68.53,PayPal
+2030,2024-01-30,Customer_30,349.77,PayPal
+2031,2024-01-31,Customer_31,393.66,Credit Card
+2032,2024-02-01,Customer_32,285.12,Cash
+2033,2024-02-02,Customer_33,342.71,Debit Card
+2034,2024-02-03,Customer_34,201.3,PayPal
+2035,2024-02-04,Customer_35,458.51,Cash
+2036,2024-02-05,Customer_36,81.14,Cash
+2037,2024-02-06,Customer_37,346.54,Credit Card
+2038,2024-02-07,Customer_38,280.24,Cash
+2039,2024-02-08,Customer_39,115.91,PayPal
+2040,2024-02-09,Customer_40,397.95,Cash
+2041,2024-02-10,Customer_41,93.42,Credit Card
+2042,2024-02-11,Customer_42,241.52,PayPal
+2043,2024-02-12,Customer_43,141.35,Cash
+2044,2024-02-13,Customer_44,382.02,Cash
+2045,2024-02-14,Customer_45,447.49,Credit Card
+2046,2024-02-15,Customer_46,453.04,PayPal
+2047,2024-02-16,Customer_47,112.52,Credit Card
+2048,2024-02-17,Customer_48,300.26,Debit Card
+2049,2024-02-18,Customer_49,364.47,PayPal
+2050,2024-02-19,Customer_50,399.12,PayPal
+2051,2024-02-20,Customer_51,112.21,Credit Card
+2052,2024-02-21,Customer_52,286.51,Debit Card
+2053,2024-02-22,Customer_53,490.05,Debit Card
+2054,2024-02-23,Customer_54,403.61,Credit Card
+2055,2024-02-24,Customer_55,202.19,Cash
+2056,2024-02-25,Customer_56,146.91,Debit Card
+2057,2024-02-26,Customer_57,280.17,Cash
+2058,2024-02-27,Customer_58,414.65,PayPal
+2059,2024-02-28,Customer_59,94.7,Debit Card
+2060,2024-02-29,Customer_60,389.18,Debit Card
+2061,2024-03-01,Customer_61,201.37,Credit Card
+2062,2024-03-02,Customer_62,120.03,PayPal
+2063,2024-03-03,Customer_63,488.82,PayPal
+2064,2024-03-04,Customer_64,326.01,Debit Card
+2065,2024-03-05,Customer_65,58.29,Cash
+2066,2024-03-06,Customer_66,456.81,Debit Card
+2067,2024-03-07,Customer_67,321.69,Cash
+2068,2024-03-08,Customer_68,229.76,Debit Card
+2069,2024-03-09,Customer_69,474.81,Debit Card
+2070,2024-03-10,Customer_70,372.61,Credit Card
+2071,2024-03-11,Customer_71,446.52,PayPal
+2072,2024-03-12,Customer_72,266.29,Debit Card
+2073,2024-03-13,Customer_73,127.17,Debit Card
+2074,2024-03-14,Customer_74,340.23,PayPal
+2075,2024-03-15,Customer_75,70.25,PayPal
+2076,2024-03-16,Customer_76,110.08,PayPal
+2077,2024-03-17,Customer_77,293.19,Cash
+2078,2024-03-18,Customer_78,64.04,PayPal
+2079,2024-03-19,Customer_79,121.12,Cash
+2080,2024-03-20,Customer_80,79.9,Debit Card
+2081,2024-03-21,Customer_81,365.43,Cash
+2082,2024-03-22,Customer_82,201.28,Cash
+2083,2024-03-23,Customer_83,233.65,Credit Card
+2084,2024-03-24,Customer_84,242.81,Cash
+2085,2024-03-25,Customer_85,456.99,Cash
+2086,2024-03-26,Customer_86,229.11,PayPal
+2087,2024-03-27,Customer_87,454.49,Debit Card
+2088,2024-03-28,Customer_88,394.84,Cash
+2089,2024-03-29,Customer_89,230.78,PayPal
+2090,2024-03-30,Customer_90,437.01,Credit Card
+2091,2024-03-31,Customer_91,483.87,Cash
+2092,2024-04-01,Customer_92,326.96,Cash
+2093,2024-04-02,Customer_93,81.6,Credit Card
+2094,2024-04-03,Customer_94,270.3,PayPal
+2095,2024-04-04,Customer_95,236.01,Cash
+2096,2024-04-05,Customer_96,353.72,PayPal
+2097,2024-04-06,Customer_97,299.92,Debit Card
+2098,2024-04-07,Customer_98,194.89,Cash
+2099,2024-04-08,Customer_99,360.33,Credit Card
+2100,2024-04-09,Customer_100,377.22,Debit Card

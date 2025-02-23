@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".*": true
+    },
+    "python.envFile": "",
+    "python.terminal.executeInFileDir": true
+}
